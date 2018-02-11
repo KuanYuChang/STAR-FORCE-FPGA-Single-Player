@@ -18,7 +18,3 @@ Using arrow keys and spacebar on keyborad to control. <br>
 * Basys™3 Artix-7 FPGA board
 * USB Keyboard
 * VGA Monitor
-
-## Links
-Report: <br>
-[https://s102020009.gitbooks.io/hardware-design-and-lab-final-project/content/](https://s102020009.gitbooks.io/hardware-design-and-lab-final-project/content/)
